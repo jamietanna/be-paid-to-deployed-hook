@@ -1,1 +1,3 @@
-Sun 22 Oct 13:12:27 BST 2017
+# This is a new site for our prospective client
+
+This is ready to go to Production, woo!
